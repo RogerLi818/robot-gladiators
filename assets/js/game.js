@@ -1,0 +1,1 @@
+window.alert("this is an alart! JavaScript is runing!");
