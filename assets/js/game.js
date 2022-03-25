@@ -30,7 +30,7 @@ var playerInfo={
             this.attack +=6;
         }
         else {
-            window.alert{"You don't have enough money!"};
+            window.alert("You don't have enough money!");
         }       
     }
 };
